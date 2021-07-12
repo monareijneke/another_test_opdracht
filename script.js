@@ -19,7 +19,7 @@ colorButton.addEventListener("click", function () {
 });
 
 textButton.addEventListener("click", function () {
-  textAdd.classList.add.innerHTML("Dit is wat tekst.");
+  textAdd.classList.add.innerHTML;{"Deze tekst komt niet tevoorschijn"};
 });
 
 
